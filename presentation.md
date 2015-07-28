@@ -33,9 +33,9 @@ My Accomplishments:
 ##Tools other people developed that I use
 
 Social Network Analysis
-> * [Lumify](http://lumify.io/)
+	* > [Lumify](http://lumify.io/)
 
-> * [Gephi](http://gephi.github.io/)
+	* > [Gephi](http://gephi.github.io/)
 
 Prediction/Classification:
 > * [Weka](http://www.cs.waikato.ac.nz/ml/weka/)
