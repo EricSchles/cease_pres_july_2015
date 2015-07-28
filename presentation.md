@@ -33,9 +33,9 @@ My Accomplishments:
 ##Tools
 
 * Grabbing IP Addresses - head over to [URL Goes Here]()
-* Scraping Backpage for phone numbers - investa_gator_v2 demo
-* Grabbing phone numbers - twilio demo
-* face search - cbir demo
+* Scraping Backpage for phone numbers - [investa_gator_v2 demo](https://github.com/EricSchles/investa_gator_v2)
+* Grabbing phone numbers - [twilio demo]()
+* face search - [cbir demo 1](https://github.com/EricSchles/cbir) [cbir demo 2](https://github.com/EricSchles/cbir_opencv)
 * visualization tools - demo - c3.js/vincent/d3.js
 
 ##Questions?
