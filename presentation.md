@@ -33,17 +33,17 @@ My Accomplishments:
 ##Tools other people developed that I use
 
 Social Network Analysis
-[Lumify](http://lumify.io/)
-[Gephi](http://gephi.github.io/)
+* [Lumify](http://lumify.io/)
+* [Gephi](http://gephi.github.io/)
 
 Prediction/Classification:
-[Weka](http://www.cs.waikato.ac.nz/ml/weka/)
-[Rattle](http://rattle.togaware.com/)
+* [Weka](http://www.cs.waikato.ac.nz/ml/weka/)
+* [Rattle](http://rattle.togaware.com/)
 
 Maps/GIS:
-[CartoDB](https://cartodb.com/)
-[Leaflet](http://leafletjs.com/)
-[GeoDjango](https://docs.djangoproject.com/en/1.8/ref/contrib/gis/)
+* [CartoDB](https://cartodb.com/)
+* [Leaflet](http://leafletjs.com/)
+* [GeoDjango](https://docs.djangoproject.com/en/1.8/ref/contrib/gis/)
 
 ##Tools I'm developing / developed
 
@@ -53,7 +53,6 @@ Maps/GIS:
 * face search - [cbir demo 1](https://github.com/EricSchles/cbir) [cbir demo 2](https://github.com/EricSchles/cbir_opencv)
 * visualization tools - demo - c3.js/vincent/d3.js
 * text classification - [demo](https://github.com/EricSchles/text_classify)
-
 
 ##Questions?
 
