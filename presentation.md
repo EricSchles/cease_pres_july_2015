@@ -53,9 +53,9 @@ Maps/GIS:
 
 * Grabbing IP Addresses - head over to [This place](https://protected-springs-7488.herokuapp.com/)
 * Scraping Backpage for phone numbers - [investa_gator_v2 demo](https://github.com/EricSchles/investa_gator_v2)
-* Grabbing phone numbers - [twilio demo]()
+* Grabbing phone numbers - [twilio demo](https://github.com/EricSchles/twilio_magic)
 * face search - [cbir demo 1](https://github.com/EricSchles/cbir) [cbir demo 2](https://github.com/EricSchles/cbir_opencv)
-* visualization tools - demo - c3.js/vincent/d3.js
+* visualization tools - demo - [c3](http://c3js.org/examples.html), [vincent](http://www.xavierdupre.fr/blog/2013-11-30_nojs.html)
 * text classification - [demo](https://github.com/EricSchles/text_classify)
 
 ##Questions?
