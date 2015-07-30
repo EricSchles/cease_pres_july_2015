@@ -59,6 +59,7 @@ Maps/GIS:
 * [PyLadies](http://www.pyladies.com/)
 * [Django Girls](https://djangogirls.org/)
 * [Meetup.com](http://www.meetup.com/)
+* [Civic Hall](http://civichall.org/)
 
 ##Tools I'm developing / developed
 
