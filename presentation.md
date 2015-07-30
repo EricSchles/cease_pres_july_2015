@@ -38,16 +38,20 @@ Social Network Analysis
 
 Prediction/Classification:
 * [Weka](http://www.cs.waikato.ac.nz/ml/weka/)
+	* [Weka Demo](https://www.youtube.com/watch?v=r9hxW3I-XEM)
 * [Rattle](http://rattle.togaware.com/)
-
+	* [rattle demo](https://www.youtube.com/watch?v=d9pokfFNGxE)
 Maps/GIS:
 * [CartoDB](https://cartodb.com/)
+	* [cartodb demo](https://www.youtube.com/watch?v=WFUlUkaFI2I)
 * [Leaflet](http://leafletjs.com/)
+	* [leaflet demo]()
 * [GeoDjango](https://docs.djangoproject.com/en/1.8/ref/contrib/gis/)
+	* [geo django demo]()
 
 ##Tools I'm developing / developed
 
-* Grabbing IP Addresses - head over to [URL Goes Here]()
+* Grabbing IP Addresses - head over to [This place](https://protected-springs-7488.herokuapp.com/)
 * Scraping Backpage for phone numbers - [investa_gator_v2 demo](https://github.com/EricSchles/investa_gator_v2)
 * Grabbing phone numbers - [twilio demo]()
 * face search - [cbir demo 1](https://github.com/EricSchles/cbir) [cbir demo 2](https://github.com/EricSchles/cbir_opencv)
