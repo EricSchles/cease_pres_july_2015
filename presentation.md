@@ -52,6 +52,7 @@ Maps/GIS:
 ##Tools I'm developing / developed
 
 * Grabbing IP Addresses - head over to [This place](https://protected-springs-7488.herokuapp.com/)
+* Alert System - [Scraping John Boards](https://github.com/EricSchles/alert_system) 
 * Scraping Backpage for phone numbers - [investa_gator_v2 demo](https://github.com/EricSchles/investa_gator_v2)
 * Grabbing phone numbers - [twilio demo](https://github.com/EricSchles/twilio_magic)
 * face search - [cbir demo 1](https://github.com/EricSchles/cbir) [cbir demo 2](https://github.com/EricSchles/cbir_opencv)
