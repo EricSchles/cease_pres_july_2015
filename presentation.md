@@ -49,6 +49,17 @@ Maps/GIS:
 * [GeoDjango](https://docs.djangoproject.com/en/1.8/ref/contrib/gis/)
 	* [geo django demo]()
 
+##Other Networks
+
+* [BetaNYC](http://betanyc.us/)
+* [DataKind](http://www.datakind.org/)
+* [Code For America](https://www.codeforamerica.org/)
+* [Girl Develop It](https://www.girldevelopit.com/)
+* [Girls Who Code](http://girlswhocode.com/)
+* [PyLadies](http://www.pyladies.com/)
+* [Django Girls](https://djangogirls.org/)
+* [Meetup.com](http://www.meetup.com/)
+
 ##Tools I'm developing / developed
 
 * Grabbing IP Addresses - head over to [This place](https://protected-springs-7488.herokuapp.com/)
